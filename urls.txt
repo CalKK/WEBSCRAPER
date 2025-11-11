@@ -1,0 +1,16 @@
+# Add your website URLs here, one per line
+# These will be scraped for content
+# Example:
+# https://example.com/blog
+# https://yourwebsite.com/news
+# https://another-site.com/articles
+
+# Replace with your actual website URLs
+https://www.newsnow.com/us/World/Africa/Kenya
+https://nairobiwire.com/
+https://www.tuko.co.ke/politics/
+https://businessinkenya.co.ke/blog/
+https://techtrendske.co.ke/mobility/
+https://techtrendske.co.ke/startups/
+https://techtrendske.co.ke/cloud/artificial-intelligence-a-i/
+https://www.theverge.com/tech
